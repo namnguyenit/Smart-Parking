@@ -1,4 +1,4 @@
-B1: chạy file JAR để khởi chạy ứng dụng
+Chạy file JAR để khởi chạy ứng dụng
 Đăng nhập hệ thống:
   + Đầu tiên đăng nhập hệ thống với account:
       Username: admin
