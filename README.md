@@ -1,4 +1,15 @@
-Chạy file JAR để khởi chạy ứng dụng
+Chạy file JAR (Lưu ý phải có OpenJDK Platform) để khởi chạy ứng dụng
+Cách cài đặt OpenJDK Platform(dành cho Window):
+  + Mở Command Prompt 
+  + Nhập lệnh như sau: winget install Oracle.JavaRuntimeEnvironment
+  + Nhấn Y để xác nhận cài đặt
+  + Sau khi hệ thống hiện install succesfully
+  + Tiếp tục nhập câu lệnh sau: winget install Oracle.JDK.23
+  + Sau khi tải về hệ thống sẽ bắt đầu cài đặt (Lưu ý: Khi cài đặt sẽ hiện lên các pop-up xác nhận hãy đồng ý để hoàn thành các bước)
+  + Sau khi màn hình hiện install succesfully
+  + Tiến hành khởi động lại máy tính
+  + Chạy file JAR với OpenJDK Platform
+  + Tiến hành sử dụng phần mềm
 Đăng nhập hệ thống:
   + Đầu tiên đăng nhập hệ thống với account:
       Username: admin
