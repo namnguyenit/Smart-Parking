@@ -1,9 +1,10 @@
 Dự án oop về quản lý bãi đỗ xe
 members:
 -Nguyễn Thành Nhân 
-    +link git:
+    +link git: https://github.com/nhan23ejwaf
 -Cao Đức Trung 
-    +link git:
+    +link git: https://github.com/namnguyenit
+
 
 
 ##Mô tả phần mềm
@@ -35,10 +36,9 @@ Yêu cầu hệ thống:
 -Maven (nếu chạy từ mã nguồn)
 
 
-##Cài đặt và chạy chương trình
-Chạy chương trình từ file JAR:
 
-Tải file JAR đã được đóng gói từ thư mục nhom_baitoancanlam.
+
+
 
 *file JAR nằm trong : /quanlybaidoxe/target  có tên file là :quanlybaidoxe-1.0-SNAPSHOT.jar
 Cách 1:
@@ -58,4 +58,4 @@ Nếu có vấn đề, hãy chắc chắn rằng Java đã được cài đặt 
     Ví dụ: "Maven để biên dịch và đóng gói dự án"
 
 
-Link GitHub:
+Link GitHub dự án:https://github.com/nhan23ejwaf/nhom8_quanlybaidoxe
